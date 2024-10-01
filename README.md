@@ -1,1 +1,1 @@
-Use the following code to start your programming skills demonstration.
+Use the code provided to start your programming skills demonstration.
