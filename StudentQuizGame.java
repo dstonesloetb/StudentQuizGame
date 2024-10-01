@@ -47,13 +47,13 @@ public class StudentQuizGame {
             }
 
            
-            // Question 2: Mathematical Operators
+            // Question 2: Relational Operators using a switch statement
             
             
-            // Question 3: Relational Operators
+            // Question 3: Boolean Operators
             
             
-            // Question 4: Boolean Operators
+            // Question 4: Mathematical and Relational Operators
 
             
             
