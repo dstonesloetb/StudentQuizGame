@@ -29,6 +29,7 @@ public class StudentQuizGame {
             
 
             // Question 1: Mathematical Operators
+            int num1 = 5, num2 = 3;
             System.out.println("Question 1: What is the result of the following expression: 5 + 3?");
             System.out.println("A. 10");
             System.out.println("B. 8");
@@ -37,7 +38,7 @@ public class StudentQuizGame {
             char answer1 = scanner.next().charAt(0);
 
             // Evaluate the answer using if-else
-            int result1 = 5 + 3;  // Using mathematical operators
+            int result1 = num1 + num2;  // Using mathematical operators
             if (answer1 == 'B' || answer1 == 'b') {
                 System.out.println("Correct!");
 
