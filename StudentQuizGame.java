@@ -26,8 +26,8 @@ public class StudentQuizGame {
 
         
             // Keep track of the player's score
-            
 
+        
             // Question 1: Mathematical Operators
             int num1 = 5, num2 = 3;
             System.out.println("Question 1: What is the result of the following expression: 5 + 3?");
